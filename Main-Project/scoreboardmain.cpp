@@ -13,7 +13,7 @@
 
 using namespace std;
 
-int Home_Score = 0, Away_Score = 0; //Team Score integer
+int Home_Score = 00, Away_Score = 00; //Team Score integer
 int Period = 1; //Period integer | Default = 1
 int minu = 0, seco = 0; //Minutes and Seconds integer
 int mins = 0, secs = 0; //Used for To_input
